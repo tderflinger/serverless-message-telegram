@@ -25,7 +25,7 @@ export TELEGRAM_CHAT_ID=xxxx
 
 You can get your Telegram API key and chat ID by following this tutorial:
 
-- https://www.forsomedefinition.com/automation/creating-telegram-bot-notifications/
+- https://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/
 
 ## Offline Testing
 
