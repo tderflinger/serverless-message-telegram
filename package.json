@@ -9,7 +9,7 @@
   "author": "Thomas Derflinger",
   "license": "MIT",
   "devDependencies": {
-    "serverless-offline": "^5.12.0"
+    "serverless-offline": "^12.0.4"
   },
   "dependencies": {
     "escape-html": "^1.0.3",
